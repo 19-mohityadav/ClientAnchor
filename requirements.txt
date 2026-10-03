@@ -1,0 +1,20 @@
+# Core
+pandas
+numpy
+scipy
+
+# ML
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+joblib
+
+# App
+streamlit
