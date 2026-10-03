@@ -14,8 +14,8 @@ sys.path.append('src')
 
 # Page configuration
 st.set_page_config(
-    page_title="Customer Churn Predictor",
-    page_icon="📊",
+    page_title="Client Anchor",
+    page_icon="🔮",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -166,7 +166,7 @@ def preprocess_input(input_df, preprocessor):
 
 def main():
     st.title("🔮 Client Anchor")
-    st.markdown("### Predict if a customer will churn based on their profile and usage patterns")
+    st.markdown("### Securing relationships, preventing drift")
     st.markdown("---")
     
     #load modle
